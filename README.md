@@ -1,3 +1,7 @@
+# Fork with [pull-request #243 ](https://github.com/michenriksen/aquatone/pull/243) by @glafarge that fix screenshots feature on Windows.
+### Usage:
+`type "X:\urllist.txt" | aquatone -out "X:\result"`
+
 # AQUATONE
 
 Aquatone is a tool for visual inspection of websites across a large amount of hosts and is convenient for quickly gaining an overview of HTTP-based attack surface.
