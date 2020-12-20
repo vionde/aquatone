@@ -1,5 +1,6 @@
 # Fork description
 This fork contains [pull-request #243 ](https://github.com/michenriksen/aquatone/pull/243) by @glafarge that fix screenshots feature on Windows.
+Binaries: https://github.com/vionde/aquatone/releases/tag/v1.7.1
 ### Usage:
 `type "X:\urllist.txt" | aquatone -out "X:\result"`
 
